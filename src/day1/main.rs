@@ -35,6 +35,7 @@ fn main() {
 
         let characters: Vec<char> = line.chars().collect();
 
+
         cnt += 1;
         let mut first_num = String::new();
         let mut last_num = String::new();
